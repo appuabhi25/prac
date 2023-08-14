@@ -1,0 +1,7 @@
+Git is the most commonly used version control system today. A Git workflow is a recipe or
+recommendation for how to use Git to accomplish work in a consistent and productive manner.
+Git workflows encourage developers and DevOps teams to leverage Git effectively and
+consistently.
+When working with a team on a Git-managed project, it’s important to make sure the team is all
+in agreement on how the flow of changes will be applied. To ensure the team is on the same
+page, an agreed-upon Git workflow should be developed or selected.
